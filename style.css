@@ -4,7 +4,11 @@
   box-sizing: border-box;
 }
 
-
+.navbar {
+    background-color: black;
+    height: 60px;
+    padding: 20px 10px;
+}
 
 .hero {
     min-height: 80vh;
